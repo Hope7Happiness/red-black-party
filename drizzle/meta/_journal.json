@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1791687330828,
+      "tag": "0000_slow_the_captain",
+      "breakpoints": true
+    }
+  ]
+}
